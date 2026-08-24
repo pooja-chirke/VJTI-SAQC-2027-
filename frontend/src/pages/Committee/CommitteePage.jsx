@@ -58,8 +58,7 @@ import ssBhat from '../../assets/committee/national-advisory/Dr_S_S_Bhat.jpg';
 
 import cPNavdeti from '../../assets/committee/national-advisory/c-p-navdeti.jpg';
 import umbarkarAnantkumar from '../../assets/committee/national-advisory/umbarkar-anantkumar.jpg';
-import deeplaxmiLambture from '../../assets/committee/national-advisory/deeplaxmi-lambture.jpg';
-
+import deeplaxmiLambture from '../../assets/committee/national-advisory/deeplaxmiLambture.jpg';
 
 // =========================================================
 // ORGANIZING COMMITTEE SPECIAL PHOTOS
