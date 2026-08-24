@@ -529,6 +529,18 @@ export const CommitteePage = () => {
       marathiAffiliation: 'वालचंद कॉलेज ऑफ इंजिनिअरिंग, सांगली',
 
       photo: umbarkarAnantkumar
+    },
+    {
+      name: 'Deeplaxmi Lambture',
+      marathiName: 'दीपलक्ष्मी लांबटुरे',
+
+      designation: 'Data Engineer',
+      marathiDesignation: 'डेटा अभियंता',
+
+      affiliation: 'Marketplace Homes',
+      marathiAffiliation: 'मार्केटप्लेस होम्स',
+
+      photo: null
     }
   ];
 
