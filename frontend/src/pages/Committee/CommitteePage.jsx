@@ -542,7 +542,7 @@ export const CommitteePage = () => {
       affiliation: 'Marketplace Homes',
       marathiAffiliation: 'मार्केटप्लेस होम्स',
 
-      photo: deeplaxmiLambture.jpg
+      photo: deeplaxmiLambture
     }
   ];
 
